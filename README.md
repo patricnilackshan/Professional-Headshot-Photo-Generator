@@ -5,7 +5,7 @@ JUST OPEN THE  [__Professional Headshot Photo Generator.ipynb__](https://colab.r
 <br>
 <br>
 
-THEN OPEN THE link provided in the output console to open the WebUI 🌐
+To view the WebUI, please open the Gradio link that appears in the output console of your Google Colab Notebook 🤖
 <br>
 <br>
 
