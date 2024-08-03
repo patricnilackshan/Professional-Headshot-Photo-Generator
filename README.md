@@ -5,6 +5,10 @@ JUST OPEN THE  [__Professional Headshot Photo Generator.ipynb__](https://colab.r
 <br>
 <br>
 
+THEN OPEN THE link provided in the output console to open the WebUI.
+<br>
+<br>
+
 USE [THIS LINK](https://app2.gravitywrite.com/content/new?category=7&prompt=3034) to generate prompts.
 
 ### © PATRIC NILACKSHAN (pnilackshan@gmail.com)
