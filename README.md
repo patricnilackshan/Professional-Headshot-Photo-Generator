@@ -13,3 +13,4 @@ USE [THIS LINK](https://app2.gravitywrite.com/content/new?category=7&prompt=3034
 
 ### © PATRIC NILACKSHAN (pnilackshan@gmail.com)
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=patricnilackshan.Professional-Headshot-Photo-Generator" />
